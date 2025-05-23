@@ -1,3 +1,0 @@
-status: 2
-ref_frame_id: 7
-ref_frame_id_str: 000007
